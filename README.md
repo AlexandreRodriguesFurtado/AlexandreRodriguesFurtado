@@ -1,10 +1,7 @@
 ### Olá! Eu sou o Alexandre Rodrigues Furtado! ✌️
 #
-<div>
-  <a href="https://github.com/AlexandreRodriguesFurtado">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreRodriguesFurtado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRodriguesFurtado&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreRodriguesFurtado&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreRodriguesFurtado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
